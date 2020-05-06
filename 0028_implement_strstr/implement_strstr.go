@@ -1,4 +1,4 @@
-package _028_implement_strstr
+package main
 
 func strStr(haystack string, needle string) int {
 	lenNeedle, lenHaystack := len(needle), len(haystack)
@@ -7,11 +7,9 @@ func strStr(haystack string, needle string) int {
 	} else if lenNeedle > lenHaystack {
 		return -1
 	}
-	for i := 0; i < len(haystack); i++ {
-		for j := 0; i+j < lenHaystack && haystack[i + j] == needle[j]; j++ {
-			if j + 1 == lenNeedle {
-				return i
-			}
+	for i := 0; i < lenHaystack; i++ {
+		if i + lenNeedle <= lenHaystack && haystack[i: i + lenNeedle] == needle {
+			return i
 		}
 	}
 	return -1
