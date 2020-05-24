@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbd23439-a97d-4466-926b-7334fa55c12c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1b53IhT6hrA4sbT9QtPOWcXAnk7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0028_implement_strstr" />
+      <recent name="$PROJECT_DIR$/0028_implement_strstr/strstrtest" />
+      <recent name="$PROJECT_DIR$/0028_implement_strstr/abc" />
+      <recent name="$PROJECT_DIR$/reverse_integer" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build wb-leetcode/8_atoi">
+    <configuration name="go build implement_strstr.go main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wb-leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/0028_implement_strStr/implement_strstr.go|$PROJECT_DIR$/200_number_of_islands/main.go" />
+      <package value="wb-leetcode/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wb-leetcode/0028_implement" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="wb-leetcode" />
+      <working_directory value="$PROJECT_DIR$/0028_implement_strStr" />
+      <useCustomBuildTags value="true" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/0066-plus-one/plus_one.go|$PROJECT_DIR$/0028_implement_strStr/implement_strstr.go" />
+      <package value="wb-leetcode/0028_implement_strStr" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wb-leetcode/200_number_of_islands" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="wb-leetcode" />
+      <working_directory value="$PROJECT_DIR$/200_number_of_islands" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/200_number_of_islands/numislands.go|$PROJECT_DIR$/200_number_of_islands/num_islands.go|$PROJECT_DIR$/200_number_of_islands/numislands.go" />
+      <package value="wb-leetcode/200_number_of_islands" />
+      <directory value="$PROJECT_DIR$/200_number_of_islands" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wb-leetcode/200_number_of_islands" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wb-leetcode" />
+      <working_directory value="$PROJECT_DIR$/200_number_of_islands" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/200_number_of_islands/main.go" />
+      <package value="wb-leetcode/200_number_of_islands" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build wb-leetcode/8_atoi" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="wb-leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/8_atoi/main.go" />
+      <package value="wb-leetcode/8_atoi" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_reverse in wb-leetcode plus_one.go plus_one.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name=" wb-leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <useCustomBuildTags value="true" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="wb-leetcode/0007-reverse-integer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/|$PROJECT_DIR$/0066-plus-one/plus_one.go|$PROJECT_DIR$/0066-plus-one/plus_one.go" />
+      <pattern value="^Test_reverse$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build wb-leetcode/0028_implement" />
+      <item itemvalue="Go Build.go build implement_strstr.go main.go" />
+      <item itemvalue="Go Build.go build wb-leetcode/200_number_of_islands" />
+      <item itemvalue="Go Test.Test_reverse in wb-leetcode plus_one.go plus_one.go" />
+      <item itemvalue="Go Build.go build wb-leetcode/8_atoi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build wb-leetcode/8_atoi" />
+        <item itemvalue="Go Build.go build wb-leetcode/200_number_of_islands" />
+        <item itemvalue="Go Build.go build wb-leetcode/200_number_of_islands" />
+        <item itemvalue="Go Build.go build implement_strstr.go main.go" />
+        <item itemvalue="Go Build.go build wb-leetcode/0028_implement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="156" width="666" height="793" key="#Test_reverse_in_wb-leetcode/0007-reverse-integer" timestamp="1588266416571">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="225" y="156" width="666" height="793" key="#Test_reverse_in_wb-leetcode/0007-reverse-integer/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588266416571" />
+    <state x="225" y="173" width="666" height="758" key="#Test_reverse_in_wb-leetcode_plus_one.go_plus_one.go" timestamp="1588266667122">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="225" y="173" width="666" height="758" key="#Test_reverse_in_wb-leetcode_plus_one.go_plus_one.go/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588266667122" />
+    <state x="494" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589012006625">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="494" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589012006625" />
+    <state x="341" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588266412257">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="341" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588266412257" />
+    <state x="655" y="177" width="666" height="751" key="#go_build_wb-leetcode/0028_implement" timestamp="1588681113176">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="655" y="177" width="666" height="751" key="#go_build_wb-leetcode/0028_implement/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588681113176" />
+    <state x="655" y="177" width="666" height="751" key="#go_build_wb-leetcode/0028_implement_strStr" timestamp="1589011988354">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="655" y="177" width="666" height="751" key="#go_build_wb-leetcode/0028_implement_strStr/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589011988354" />
+    <state x="225" y="177" width="666" height="751" key="#go_build_wb-leetcode/0066-plus-one" timestamp="1588681061407">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="225" y="177" width="666" height="751" key="#go_build_wb-leetcode/0066-plus-one/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588681061407" />
+    <state x="655" y="177" width="666" height="751" key="#go_build_wb-leetcode/200_number_of_islands" timestamp="1590343469198">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="655" y="177" width="666" height="751" key="#go_build_wb-leetcode/200_number_of_islands/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590343469198" />
+    <state x="655" y="177" width="666" height="751" key="#go_build_wb-leetcode/200_number_of_islands_(1)" timestamp="1589360310783">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="655" y="177" width="666" height="751" key="#go_build_wb-leetcode/200_number_of_islands_(1)/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589360310783" />
+    <state x="828" y="311" width="309" height="482" key="EnvironmentVariablesDialog" timestamp="1588681239210">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="828" y="311" width="309" height="482" key="EnvironmentVariablesDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588681239210" />
+    <state x="467" y="348" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589360395402">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="467" y="348" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589360395402" />
+    <state width="1807" height="286" key="GridCell.Tab.0.bottom" timestamp="1590344493867">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="286" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590344493867" />
+    <state width="1807" height="286" key="GridCell.Tab.0.center" timestamp="1590344493867">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="286" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590344493867" />
+    <state width="1807" height="286" key="GridCell.Tab.0.left" timestamp="1590344493867">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="286" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590344493867" />
+    <state width="1807" height="286" key="GridCell.Tab.0.right" timestamp="1590344493867">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="286" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590344493867" />
+    <state width="1807" height="286" key="GridCell.Tab.1.bottom" timestamp="1590344493871">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="286" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590344493871" />
+    <state width="1807" height="286" key="GridCell.Tab.1.center" timestamp="1590344493867">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="286" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590344493867" />
+    <state width="1807" height="286" key="GridCell.Tab.1.left" timestamp="1590344493867">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="286" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590344493867" />
+    <state width="1807" height="286" key="GridCell.Tab.1.right" timestamp="1590344493871">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="286" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1590344493871" />
+    <state width="926" height="527" key="XDebugger.FullValuePopup" timestamp="1589360699694">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="527" key="XDebugger.FullValuePopup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589360699694" />
+    <state x="755" y="388" width="467" height="329" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1589359557918">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="755" y="388" width="467" height="329" key="com.goide.refactor.move.GoMoveDeclarationDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589359557918" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1589018890001">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1589018890001" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/200_number_of_islands/numislands.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/200_number_of_islands/numislands.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/200_number_of_islands/numislands.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/8_atoi/main.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
